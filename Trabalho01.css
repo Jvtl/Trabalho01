@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: gainsboro;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cabecalho {
+    line-height: 75px;
+    margin: 0 auto;
+}
+
+.titulo {
+    font-size: 4rem;
+}
+
+.corpo {
+    display: flex;
+    justify-content: center;
+}
+
+.topicos {
+    margin: 50px 100px;
+}
+
+.topico {
+    text-align: left;
+    display: flex;
+}
+
+.imagem {
+    margin: 100px 75px;
+}
+
+.icone {
+    height: 50px;
+    width: 50px;
+    margin: 50px 25px;
+}
+
+p {
+    word-wrap: break-word;
+    width: 500px;
+}
+
